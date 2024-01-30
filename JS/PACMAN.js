@@ -1,7 +1,7 @@
 
 const canvas = document.querySelector('canvas') // des canvas verwenden
 const c = canvas.getContext('2d') // mit dem kann ich jetzt funktionen im canvas verwenden und dieses 2d holt diese API
-
+//test
 const punkt = document.querySelector('#punkt')
 console.log(punkt)
 const looser = document.querySelector('#looser')
